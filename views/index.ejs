@@ -1,0 +1,10 @@
+<% if (!user) { %>
+	<h2>Welcome! Please <a href="/auth/tumblr">Login with Tumblr</a></h2>
+<% } else { %>
+	<h2>Hello, <%= user.username %>.</h2>
+
+  <form method="post" action="/queue">
+    <textarea name="csv" rows="30" cols="150"></textarea>
+    <input type="submit" value="Queue">
+  </form>
+<% } %>
