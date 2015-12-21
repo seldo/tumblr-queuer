@@ -3,13 +3,15 @@ var express = require('express')
   , util = require('util')
   , TumblrStrategy = require('passport-tumblr').Strategy
   , tumblr = require('tumblr.js')
-  , config = require('./config');
+  , config = require('./config')
+  , open = require('open')
 
 console.log(config)
 
 var TUMBLR_CONSUMER_KEY = config.TUMBLR_CONSUMER_KEY
 var TUMBLR_SECRET_KEY = config.TUMBLR_SECRET_KEY
 var BLOG_NAME = config.BLOG_NAME
+var PORT = 3000
 
 passport.serializeUser(function(user, done) {
   done(null, user);
@@ -29,7 +31,7 @@ passport.use(new TumblrStrategy({
   function(token, tokenSecret, profile, done) {
     // asynchronous verification, for effect...
     process.nextTick(function () {
-      
+
       // To keep the example simple, the user's Tumblr profile is returned to
       // represent the logged-in user.  In a typical application, you would want
       // to associate the Tumblr account with a user record in your database,
@@ -134,7 +136,7 @@ app.get('/auth/tumblr',
 //   request.  If authentication fails, the user will be redirected back to the
 //   login page.  Otherwise, the primary route function function will be called,
 //   which, in this example, will redirect the user to the home page.
-app.get('/auth/tumblr/callback', 
+app.get('/auth/tumblr/callback',
   passport.authenticate('tumblr', { failureRedirect: '/login' }),
   function(req, res) {
     res.redirect('/');
@@ -145,7 +147,10 @@ app.get('/logout', function(req, res){
   res.redirect('/');
 });
 
-app.listen(3000);
+app.listen(PORT,function() {
+  console.log(`listening on ${PORT}`)
+  open(`http://127.0.0.1:${PORT}`)
+});
 
 
 // Simple route middleware to ensure user is authenticated.

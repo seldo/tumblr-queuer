@@ -3,13 +3,16 @@
   "version": "0.0.1",
   "author": "Laurie Voss <npm@seldo.com>",
   "description": "pushes a CSV of tumblr text posts with publish dates into the queue of a given blog",
-  "dependencies" : {
-    "tumblr.js": "*",
-    "express": ">= 0.0.0",
+  "dependencies": {
     "ejs": ">= 0.0.0",
+    "express": ">= 0.0.0",
+    "open": "0.0.5",
     "passport": ">= 0.0.0",
-    "passport-tumblr": ">= 0.0.0"
+    "passport-tumblr": ">= 0.0.0",
+    "tumblr.js": "*"
   },
-  "devDependencies": {
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./app.js"
   }
 }

@@ -1,9 +1,9 @@
 # Tumblr queuer
 
-This is a huge hack. It creates a very small Tumblr OAuth app 
-that can put things into your tumblr queue at specified type,
+This is a huge hack. It creates a very small Tumblr OAuth app
+that can put things into your tumblr queue at specified times,
 in very large batches. It exists to power the Twitter account
-@sunofseldo (I post to Tumblr and IFTTT cross-posts. Should I 
+@sunofseldo (I post to Tumblr and IFTTT cross-posts. Should I
 use Buffer or something? I dunno.)
 
 Anyway. It creates an app that listens on [http://127.0.0.1:3000](http://127.0.0.1:3000)
@@ -18,14 +18,14 @@ module.exports = {
 }
 ```
 
-Once that's in place, run `node app.js` and hit the website. It will use 
+Once that's in place, run `npm start`. It will try to open your browser and then use 
 cookie-based OAuth to authorize this app and store the results in memory
 (so if you stop the app and start it again, you will need to re-auth).
 The app calls back to `http://127.0.0.1:3000/auth/tumblr/callback` which is
 why it's so important to use that instead of localhost; if you use localhost
 the local app will run but the OAuth step will always fail.
 
-Once you are authed you will get a big box that expects input in the form of 
+Once you are authed you will get a big box that expects input in the form of
 
 ```
 Jan 8 2014 5:08 PM,Any text here.
