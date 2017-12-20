@@ -79,7 +79,7 @@ app.post('/queue', ensureAuthenticated, function(req, res){
   });
 
   var finished = function() {
-    client.queue(BLOG_NAME, {limit: 50}, function(er,resp) {
+    client.blogQueue(BLOG_NAME, {limit: 50}, function(er,resp) {
       console.log("Queue retrieved!")
       console.log(resp.posts);
       res.render('queue', { posts: resp.posts });
@@ -105,7 +105,7 @@ app.post('/queue', ensureAuthenticated, function(req, res){
       var publishOn = new Date(dateString).toISOString()
       console.log("Want to post " + text + " at " + dateString + " parsed to " + publishOn)
 
-      client.text(BLOG_NAME, {
+      client.createTextPost(BLOG_NAME, {
         state: 'queue',
         body: text,
         publish_on: publishOn
