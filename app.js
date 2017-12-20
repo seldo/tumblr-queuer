@@ -1,10 +1,11 @@
-var express = require('express')
-  , passport = require('passport')
-  , util = require('util')
-  , TumblrStrategy = require('passport-tumblr').Strategy
-  , tumblr = require('tumblr.js')
-  , config = require('./config')
-  , open = require('open')
+var express = require('express'),
+  passport = require('passport'),
+  util = require('util'),
+  TumblrStrategy = require('passport-tumblr').Strategy,
+  tumblr = require('tumblr.js'),
+  config = require('./config'),
+  open = require('open')
+
 
 console.log(config)
 
@@ -48,21 +49,17 @@ passport.use(new TumblrStrategy({
 var app = express();
 
 // configure Express
-app.configure(function() {
-  app.set('views', __dirname + '/views');
-  app.set('view engine', 'ejs');
-  app.use(express.logger());
-  app.use(express.cookieParser());
-  app.use(express.bodyParser());
-  app.use(express.methodOverride());
-  app.use(express.session({ secret: 'oh so very secret' }));
-  app.use(passport.initialize());
-  app.use(passport.session());
-  app.use(app.router);
-  app.use(express.static(__dirname + '/../../public'));
-});
-
-
+app.set('views', __dirname + '/views');
+app.set('view engine', 'ejs');
+app.use(express.logger());
+app.use(express.cookieParser());
+app.use(express.bodyParser());
+app.use(express.methodOverride());
+app.use(express.session({ secret: 'oh so very secret' }));
+app.use(passport.initialize());
+app.use(passport.session());
+app.use(app.router);
+app.use(express.static(__dirname + '/../../public'));
 
 app.get('/', function(req, res){
   res.render('index', { user: req.user });
