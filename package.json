@@ -4,12 +4,14 @@
   "author": "Laurie Voss <npm@seldo.com>",
   "description": "pushes a CSV of tumblr text posts with publish dates into the queue of a given blog",
   "dependencies": {
-    "ejs": ">= 0.0.0",
-    "express": ">= 0.0.0",
+    "ejs": "2.x",
+    "express": "3.x",
+    "moment": "^2.20.0",
     "open": "0.0.5",
-    "passport": ">= 0.0.0",
-    "passport-tumblr": ">= 0.0.0",
-    "tumblr.js": "*"
+    "passport": "0.4.x",
+    "passport-tumblr": "0.1.x",
+    "solar-calc": "^1.1.0",
+    "tumblr.js": "1.x"
   },
   "devDependencies": {},
   "scripts": {
