@@ -1,75 +1,82 @@
-Dec 20 2015 4:54 PM,Okay, this is terrible. But we've got through this before, and we'll do it again. All of us, together. It'll be okay.
-Dec 21 2015 4:54 PM,Happy Solstice! After today, the days start getting longer. Slowly at first, but we can make it.
-Dec 22 2015 4:55 PM,It's just a trick of the clock, but the sun set at 4:55PM today instead of 4:54PM! That's nice, right?
-Dec 23 2015 4:55 PM,Today was 4 seconds longer than yesterday! 4 precious seconds of daylight, and tomorrow there will be more.
-Dec 24 2015 4:56 PM,Happy Christmas Eve! Sunset time ticked over again, to 4:56PM today.
-Dec 25 2015 4:56 PM,Merry Christmas! I got you 11 precious extra seconds of daylight. This starts going faster now!
-Dec 26 2015 4:57 PM,Why the heck is it called Boxing Day? Anyway, sunset ticked over to 4:57PM today, and we're gonna be okay.
-Dec 27 2015 4:58 PM,You got 18 seconds of extra daylight today, that's a whole extra minute since the solstice! Sunset was at 4:58PM, too.
-Dec 28 2015 4:58 PM,22 extra seconds of daylight today, and the sun set at 4:58PM. We can do this.
-Dec 29 2015 4:59 PM,Sunset was at 4:59PM today, and today is the last time it'll be before 5PM! You got 25 extra seconds of daylight.
-Dec 30 2015 5:00 PM,Woo! Sunset was at 5PM today! That's still awfully early, but it's 6 minutes later than at the solstice!
-Dec 31 2015 5:00 PM,Have a happy new year's eve! You got 29 extra seconds of daylight today.
-Jan 1 2016 5:01 PM,Happy new year! You made it out of 2015! And there were 36 extra seconds of daylight today! Hooray!
-
-Jan 8 2014 5:08 PM,Woohoo! Today was one whole minute longer than yesterday! 9 hours and 42 minutes of daylight, and growing faster every day.
-Jan 9 2014 5:09 PM,Sunset was at 5.09pm today, 1 minute and 3 seconds later than yesterday. Hasn't set this late since November 3rd!
-Jan 10 2014 5:10 PM,1 minute and 6 seconds extra daylight today, sunset was at 5.10pm. We are gonna make it.
-Jan 11 2014 5:11 PM,Sunset was at 5.11pm today, 1 minute and 9 seconds later than yesterday.
-Jan 12 2014 5:12 PM,1 minute and 12 seconds extra daylight today. Sunset was at 5.12pm, 10 minutes longer than on the first of January!
-Jan 13 2014 5:13 PM,1 minute and 15 seconds extra daylight today. Sunset was at 5.13pm -- five minutes gained since last week.
-Jan 14 2014 5:14 PM,Sunset was at 5.14pm, after 9 hours and 49 precious minutes of daylight.
-Jan 15 2014 5:15 PM,9 hours and 51 minutes of daylight, 1 minute and 20 seconds more than yesterday. Still accelerating!
-Jan 16 2014 5:16 PM,Sunset was at 5.16pm; after 9 hours and 52 minutes of daylight.
-Jan 17 2014 5:17 PM,An extra minute and 26 seconds of daylight, as we grow tantalizingly close to 10-hour days again. Sunset was at 5.17pm.
-Jan 18 2014 5:18 PM,Sunset was at 5.18pm; you got a minute and 28 seconds of extra daylight over yesterday. 7 minutes extra since last week!
-Jan 19 2014 5:19 PM,Sunset was at 5.19pm, after 9 hours and 57 minutes of daylight.
-Jan 20 2014 5:20 PM,Sunset was at 5.20pm! This isn't good enough yet, but it's not horrible. And you got an extra 1 minute and 33 seconds.
-Jan 21 2014 5:21 PM,With sunset at 5.21pm, today was 10 hours long! The last 10 hour day was all the way back on November 19th.
-Jan 22 2014 5:22 PM,Sunset at 5.22pm today, after 10 hours, 1 minutes, and 38 seconds of precious daylight.
-Jan 23 2014 5:23 PM,You got an extra 1 minute and 40 seconds of daylight today! Sunset at 5.23pm.
-Jan 24 2014 5:25 PM,Sunset was at 5.25pm today. Sunrise has been creeping backwards too; it was at 7.20am today, 5 minutes earlier than Jan 1.
-Jan 25 2014 5:26 PM,A minute and 44 extra seconds of daylight today gave us sunset at 5.26pm.
-Jan 26 2014 5:27 PM,Another extra minute and 46 second of daylight today. Sunset was at 5.27pm.
-Jan 27 2014 5:28 PM,The sun set 8 minutes later today than it did this day last week. Sunset was at 5.28pm.
-Jan 28 2014 5:29 PM,An extra minute and 50 seconds of daylight today, for 10 hours and 12 minutes of daylight in total. Not too shabby.
-Jan 29 2014 5:30 PM,We have reached sunset at 5.30pm! That's beginning to feel okay. We can make this.
-Jan 30 2014 5:31 PM,An extra minute and 54 seconds of daylight today. Sunrise has gone back another 5 minutes to 7.15, too.
-Jan 31 2014 5:32 PM,Sunset was at 5.32pm today -- we've gained a whole 30 minutes since the start of the month! Onward to February!
-Feb 1 2014 5:33 PM,Welcome to February! I know it's still not good enough, but have an extra 1 minute 57 seconds of daylight.
-Feb 2 2014 5:35 PM,Sunset was at 5.35pm today -- our first two-minute jump is tomorrow!
-Feb 3 2014 5:36 PM,10 hours and 23 minutes of daylight today, a full two minutes more than just yesterday! It gets better faster now.
-Feb 4 2014 5:37 PM,Sunset was at 5.37pm today, with 2 minutes and 2 seconds extra daylight.
-Feb 5 2014 5:38 PM,The sun set at 5.38pm today, and dawn has gained another 5 minutes -- it was at 7.10am today.
-Feb 6 2014 5:39 PM,Today was 10 and a half hours long, the longest day since November 3.
-Feb 7 2014 5:40 PM,2 minutes and 6 seconds extra daylight today! Sunset was at 5.40pm.
-Feb 8 2014 5:41 PM,Sunset was at 5.41pm. The time will tick up by at least a minute every day from now on!
-Feb 9 2014 5:42 PM,2 minutes and 8 seconds of extra daylight, and the sunset was at 5.42pm.
-Feb 10 2014 5:43 PM,A full 10 hours and 38 minutes of daylight today! The sun set at 5.43pm.
-Feb 11 2014 5:45 PM,5.45pm was sunset today! Another little milestone. We're gonna make it.
-Feb 12 2014 5:46 PM,10 hours and 42 minutes of daylight today. You gained 2 minutes and 11 seconds.
-Feb 13 2014 5:47 PM,2 minutes and 12 seconds of extra daylight today! The sun set at 5.47pm. And sunrise tomorrow will be at 7am!
-Feb 14 2014 5:48 PM,Happy Valentine's day! I love you, so I got you 2 minutes and 13 seconds extra daylight.
-Feb 15 2014 5:49 PM,2 minutes and 14 seconds extra daylight gives us a 10 hour and 49 minute day, the longest since October 26th!
-Feb 16 2014 5:50 PM,Sun set was at 5.50pm. Only 10 more minutes to gain until 6pm! Can you feel it?
-Feb 17 2014 5:51 PM,2 minutes and 16 seconds extra daylight today, and the sun set at 5.51pm.
-Feb 18 2014 5:52 PM,2 minutes and 17 seconds of extra daylight. More and more every day. Stay strong.
-Feb 19 2014 5:53 PM,Another 2 minutes and 18 seconds of extra daylight, and the sun set at 5.53pm.
-Feb 20 2014 5:54 PM,Wahey! Our first 11-hour day! The sun didn't set until 5.54pm.
-Feb 21 2014 5:55 PM,11 hours and 3 minutes of daylight today, a gain of 2 minutes and 16 seconds over yesterday.
-Feb 22 2014 5:56 PM,An extra 2 minutes and 19 seconds of daylight got us to sunset at 5.56pm. So close to 6pm!
-Feb 23 2014 5:57 PM,11 hours and 8 minutes of daylight today! We gained 2 minutes and 20 seconds.
-Feb 24 2014 5:58 PM,Two minutes and 21 seconds of extra daylight today. The sun set at 5.58pm.
-Feb 25 2014 5:59 PM,Sunset was at 5.59pm today. Tomorrow's a big milestone! We can do this.
-Feb 26 2014 6:00 PM,Woooooo! Sunset was at 6pm today! The worst of February is over, everybody.
-Feb 27 2014 6:01 PM,11 hours and 17 minutes of daylight today! Longest day since October 13th. Sunset was at 6.01pm.
-Feb 28 2014 6:02 PM,2 minutes and 23 seconds extra daylight today. Kiss February goodbye! Sunset was at 6.02pm.
-Mar 1 2014 6:03 PM,Welcome to March! Another 2 minutes and 23 seconds of extra daylight today. Sunrise is all the way back to 6.41am!
-Mar 2 2014 6:04 PM,We are on the last week before DST! Sunset was at 6.04pm, and the day was 11 hours and 24 minutes long.
-Mar 3 2014 6:05 PM,Today was 11 hours and 27 minutes long, and sunset was at 6.05pm.
-Mar 4 2014 6:06 PM,Sunrise at 6.37am, sunset at 6.06pm, and 11 hours and 29 minutes of daylight in between. Awww yeah.
-Mar 5 2014 6:07 PM,2 minutes and 25 seconds extra daylight today. Sunset was at 6.07pm. Nearly okay!
-Mar 6 2014 6:08 PM,Sunset was at 6.08pm today. Hang on tight, we're nearly there.
-Mar 7 2014 6:09 PM,11 hours and 36 minutes of daylight today! Pretty decent. Sunset was at 6.09pm.
-Mar 8 2014 6:10 PM,2 minutes and 25 seconds of extra daylight today, and get ready, because tomorrow's gonna be GREAT.
-Mar 9 2014 7:11 PM,HOORAY! The clocks went forward! Sunset was at 7.11 today -- the horrible, dark days of winter are OVER!
+Dec 20 2017 4:53 PM,Okay, my friends. Tomorrow is the solstice, so tomorrow we begin. We will get through this, together.
+Dec 21 2017 4:54 PM,Happy solstice to you! Starting tomorrow, every day will be longer than the last, and the days will get longer by more each day.
+Dec 22 2017 4:54 PM,Today you got 2 extra seconds of daylight. Take a breath. That much extra. Tomorrow, there will be 3 extra breaths of daylight. One breath at a time, we'll get there.
+Dec 23 2017 4:55 PM,Today the sunset was at 4.55pm. It's just a trick of the clock, but that's a minute later than it was yesterday. There were 6 seconds of extra daylight.
+Dec 24 2017 4:56 PM,Happy Christmas Eve! The sunset ticked forward again today, to 4.56pm. And there were 10 extra seconds of daylight. Each day gets longer faster than the one before.
+Dec 25 2017 4:56 PM,Merry Christmas! The sun's gift to you is 13 seconds of precious extra daylight. Sunset is already 3 minutes later than when we started!
+Dec 26 2017 4:57 PM,Sunset ticked forward to 4.57pm today, and you got 16 extra seconds of daylight -- a whole quarter-minute! It's still dark too soon, but we can do this.
+Dec 27 2017 4:58 PM,You got 21 extra seconds of daylight today, and sunset ticked forward again, to 4.58pm. 5 minutes later than when we started!
+Dec 28 2017 4:58 PM,You got 24 extra seconds of daylight today. This is the last dark Thursday of 2017. You can make it to the end of the year, it's so close.
+Dec 29 2017 4:59 PM,Sunset ticked forward by another minute today to 4.59pm. This is the last time it will set before 5pm! Celebrate every little milestone.
+Dec 30 2017 5:00 PM,Phew! The sun set at 5pm today! That's not good enough, but it's 10 minutes later than the earliest sunset was!
+Dec 31 2017 5:00 PM,You got 34 extra seconds of daylight today. A half-minute! And every day from now will add at least half a minute more!
+Jan 1 2018 5:01 PM,Happy new year! Sunset ticked forward by 1 minute today. More good news: until today, sunrise was still getting later, but now it starts getting earlier!
+Jan 2 2018 5:02 PM,You got 42 seconds more daylight today. Sit for 42 seconds and think how long that is. That's nice. Sunset ticked forward to 5.02pm.
+Jan 3 2018 5:03 PM,Sunset went forward to 5.03pm today. Today was 9 hours and 38 minutes long, which is more than 5 minutes of extra daylight since the solstice.
+Jan 4 2018 5:04 PM,Sunset was at 5.04pm today. That's 11 minutes later than the solstice! You're already 12% of the way through January.
+Jan 5 2018 5:05 PM,Today had 50 seconds more daylight than yesterday did! Sunset moved forward to 5.05pm, too. Tomorrow's a little milestone!
+Jan 6 2018 5:06 PM,Woo! The sun set at 5.06pm today, which is the latest sunset since November 5th! The two worst months of early darkness are behind you.
+Jan 7 2018 5:06 PM,Today was 58 seconds longer than yesterday! Every day from now on has at least a minute more daylight than the one before. And the amount gets bigger every day!
+Jan 8 2018 5:07 PM,Today was one whole minute longer than yesterday! I know it's still dark. I know it still sucks. But every day, a minute better. Stick with me.
+Jan 9 2018 5:08 PM,Sunset was at 5.08pm today -- that's 10 minutes later than just 12 days ago. Today had 1 minute and 4 seconds of extra daylight.
+Jan 10 2018 5:09 PM,Sunset moved forward by another minute today, to 5.09pm, and you got a minute and 7 seconds of extra daylight. Tomorrow something new and good starts happening!
+Jan 11 2018 5:10 PM,Today sunrise started ticking backwards! Sunrise went back 1 minute to 7.24am, and sunset kept moving forward, to 5.10pm.
+Jan 12 2018 5:11 PM,Today was a whole minute and 13 seconds longer than the day before. We've added 15 whole minutes of daylight to the day since the solstice, and the next 15 come fast!
+Jan 13 2018 5:12 PM,Sunset was 5.12pm today. The whole day had 9 hours and 48 minutes of daylight in it. That's not good enough, but we'll get there together.
+Jan 14 2018 5:13 PM,Sunset moved forward again to 5.13pm, and there was 1 minute and 19 seconds of extra daylight. It's also the Orthodox New Year in some places, apparently.
+Jan 15 2018 5:14 PM,Sunrise moved back by 1 minute to 7.23am, and sunset moved forward to 5.14pm, plus there was 1 minute and 21 seconds more daylight to be in! A good day.
+Jan 16 2018 5:15 PM,Sunset moved forward to 5.15pm today. You are more than half-way through January! You can make it through January. You can make it.
+Jan 17 2018 5:16 PM,Today was 1 minute and 26 seconds longer than yesterday. You could have a decent, sun-lit conversation in that time. Savor the extra light. A milestone tomorrow!
+Jan 18 2018 5:18 PM,Today was the first day the sunset moved forward by 2 minutes -- it was 5.18pm today. Sunrise moved backwards, too! It was 7.22am. Real progress.
+Jan 19 2018 5:19 PM,Today had 1 minute and 31 seconds more daylight than yesterday: a whole minute and a half! Sunset moved forward to 5.19pm, too.
+Jan 20 2018 5:20 PM,It's another double day: sunrise moved back to 7.21am, sunset moved forward to 5.20pm. Tomorrow's a really nice milestone!
+Jan 21 2018 5:21 PM,Woo! Today was 10 hours long! The last 10 hour day wasn't since November 19th. Sunset moved back by a minute to 5.21pm, too.
+Jan 22 2018 5:22 PM,It's a double day: sunrise went back to 7.21am, sunset forward to 5.22pm, and 1 minute and 39 seconds of extra daylight.
+Jan 23 2018 5:23 PM,Today was 10 hours, 3 minutes and 22 seconds long. We added those 3 minutes and 22 seconds just since Sunday! We're really chugging along now.
+Jan 24 2018 5:24 PM,Today was 33 minutes longer than the solstice was. Half an hour! It was a double day, too: sunrise back to 7.19am, sunset forward to 5.24pm.
+Jan 25 2018 5:25 PM,There's less than a week left in January, the end of this crappy month is in sight. And today had 1 minute and 45 seconds more daylight than yesterday.
+Jan 26 2018 5:26 PM,Happy Friday! Today was 12 whole minutes longer than last Friday was, that's how fast we're racking up daylight now. Sunset moved forward to 5.26pm.
+Jan 27 2018 5:27 PM,It's a double day! Sunrise went back to 7.17am, which is the earliest it's been since December 14th. Sunset went forward to 5.27pm. 5.30 sunset is just around the corner!
+Jan 28 2018 5:28 PM,It's a double day again! Sunrise was 7.16am, sunset was 5.28pm, and you got 1 minute and 50 seconds of extra daylight. Nearly two minutes!
+Jan 29 2018 5:30 PM,It's a *triple* day: sunrise went back 1 minute to 7.15am, sunset went forward 2 minutes to 5.30pm. Yay! You might be leaving work in daylight today.
+Jan 30 2018 5:31 PM,From now on, every day is at least a double day. Sunset went forward to 5.31pm, and there was 1 minute and 54 seconds of extra daylight.
+Jan 31 2018 5:32 PM,You made it through January! You are more than halfway from the solstice to the time change. Have 1 minute and 56 seconds of extra daylight to celebrate.
+Feb 1 2018 5:33 PM,Alright, here we go: February. There's only 28 days and we are gonna make it through. Today was 10 hours and 20 minutes long, the longest day since November 8th!
+Feb 2 2018 5:34 PM,Every day in February is at least a double day! Sunrise went back to 7.12am today, and sunset forward to 5.34pm. Tomorrow's a milestone day!
+Feb 3 2018 5:35 PM,Today you got not 1 but 2 whole extra minutes of daylight! And you'll get another 2 minutes every day from now on! Sunset was at 5.35pm.
+Feb 4 2018 5:36 PM,It's Sunday, so I hope you found some sun. The day was 10 hours and 26 minutes long today, 2 minutes and 3 seconds more daylight than just yesterday!
+Feb 5 2018 5:37 PM,Today sunrise moved back to 7.09am, sunset moved forward to 5.37pm, and you're already 18% of the way through February. Milestone tomorrow!
+Feb 6 2018 5:39 PM,Today was 10 hours and 30 minutes long! We got there with 2 minutes and 6 seconds of extra daylight since yesterday. We've added 10 minutes just since Feb 1!
+Feb 7 2018 5:40 PM,Today was 10 hours and 32 minutes long, which is a whole hour longer than the day was on the solstice. Sunset was at 5.40pm, which is close to being acceptable.
+Feb 8 2018 5:41 PM,Sunrise was at 7.06am today, which is honestly as early as I need it to be, and sunset was at 5.41pm. You got 2 minutes and 7 seconds extra daylight.
+Feb 9 2018 5:42 PM,Another 2 minutes and 8 seconds of extra daylight today. Sunset was at 5.42pm today, which is a whole half hour later than January 13th.
+Feb 10 2018 5:43 PM,2 minutes and 10 seconds of extra daylight today took sunrise back to 7.04am and sunset forward to 5.43pm. This is beginning to be okay.
+Feb 11 2018 5:44 PM,Today was 10 hours and 40 minutes long -- 10 minutes more just since Tuesday! We're really adding serious daytime now. You can feel it.
+Feb 12 2018 5:45 PM,Sunrise was 7.02am today, sunset was 5.45pm: just 15 more minutes to go to the 6pm milestone, we'll be there before you know it.
+Feb 13 2018 5:46 PM,Sunrise was 7.01am today, sunset was 5.46pm, and there were 2 minutes and 14 seconds of extra daylight. What can you do in 2 minutes and 14 seconds? Lots.
+Feb 14 2018 5:47 PM,For Valentine's day I got you 2 minutes and 14 more seconds of daylight, in a day that was 10 hours, 47 minutes and 30 seconds long. Glorious.
+Feb 15 2018 5:48 PM,You're more than halfway through February! You got this. You can make this. And to help, have 2 minutes and 15 seconds more daylight.
+Feb 16 2018 5:49 PM,Sunrise was at 6.57am today, having broken through the 7am barrier yesterday. Sunset was at 5.49pm. So close to 6pm. So close. Stay strong.
+Feb 17 2018 5:51 PM,Sunset ticked forward 2 minutes to 5.51pm today, and sunrise back to 6.56am, which is pretty early. The day had 2 minutes and 17 seconds more daylight.
+Feb 18 2018 5:52 PM,Today was 10 hours and 56 minutes long, and had 2 minutes and 19 seconds more daylight than yesterday. Sunset was at 5.52pm.
+Feb 19 2018 5:53 PM,Sunrise moved back to 6.54am, sunset moved forward to 5.53pm, and tomorrow's a milestone day!
+Feb 20 2018 5:54 PM,Yay! Today was the first 11 hour day since all the way back in October! October wasn't too bad, right? And it's getting better still.
+Feb 21 2018 5:55 PM,2 minutes and 20 seconds of extra daylight today carried sunset to 5.55pm. There's a big milestone this week, so keep holding on.
+Feb 22 2018 5:56 PM,Sunrise went back to 6.50am today, sunset forward to 5.56pm. We've added 10 minutes of daylight just since Saturday!
+Feb 23 2018 5:57 PM,You are 82% of the way through February. That's practically done! Today you got 2 minutes and 21 seconds of extra daylight.
+Feb 24 2018 5:58 PM,Sunrise moved back to 6.47am today, sunset kept moving forward and hit 5.58pm. We're so close to 6pm you can taste it.
+Feb 25 2018 5:59 PM,Today is the last day the sun sets before 6pm! Yay! And there were 2 minutes and 23 seconds of extra daylight, too.
+Feb 26 2018 6:00 PM,Woohoo! Sunset wasn't until 6pm today! That's a whole hour later than it was on December 31st.
+Feb 27 2018 6:01 PM,You've got February in the bag, just one more day. Sunrise went back to 6.43am, and sunset moved forward to 6.01pm.
+Feb 28 2018 6:02 PM,Phew! You survived February. I'm proud of you. Your reward is a whole hour more daylight each day than you had at the beginning of February.
+Mar 1 2018 6:03 PM,Welcome to March! This is the home stretch. Compared to the rest of it this is gonna be easy. Sunset was at 6.03pm today, which is totally fine.
+Mar 2 2018 6:04 PM,Sunset was at 6.39am, which is damn early, and today was 11 hours and 24 minutes long. We've added half an hour of daylight since just 2 weeks ago!
+Mar 3 2018 6:05 PM,Today had 2 minutes and 25 seconds more daylight than yesterday did. Sunset was at 6.05pm. You're nearly there!
+Mar 4 2018 6:06 PM,Sunrise moved back to 6.36am, sunset moved forward to 6.06pm, and today's a milestone: 11 and a half hours of daylight! Woo!
+Mar 5 2018 6:07 PM,Okay! This is the final week of dark days. This is the home stretch. Sunset wasn't until 6.07pm today, I hope you found some sunshine this Sunday!
+Mar 6 2018 6:08 PM,With nearly two and a half minutes of extra daylight today, I bet you can feel the days getting better. Sunset was at 6.08pm.
+Mar 7 2018 6:09 PM,Sunrise went back to 6.32am, sunset went forward to 6.09pm, and we are nearly, nearly there. Stay with me.
+Mar 8 2018 6:10 PM,Today was 11 hours and 39 minutes long; we've added 10 minutes just since Sunday! Sunset wasn't until 6.10pm.
+Mar 9 2018 6:11 PM,Sunrise was at 6.29am today, sunset was at 6.11pm. Those are totally bearable. But it's not going to just stop being terrible; it's going to start being good.
+Mar 10 2018 6:12 PM,Alright! Have 2 minutes and 26 seconds of extra daylight, and tomorrow is the BIG milestone! Yes!
+Mar 11 2018 7:13 PM,WOOHOO!!! The clocks went forward! Sunset was at 7.13pm today! You made it! The horrible, dark days of winter are OVER!
